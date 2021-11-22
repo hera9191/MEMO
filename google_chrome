@@ -1,0 +1,5 @@
+google-chrome
+
+run new session (known bug):
+  fake different account
+> google-chrome --user-data-dir=/tmp

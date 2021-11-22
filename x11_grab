@@ -1,0 +1,14 @@
+ffmpeg
+
+https://trac.ffmpeg.org/wiki/Capture/PulseAudio
+
+> pactl list short sources
+0	alsa_output.pci-0000_00_1f.3.analog-stereo.monitor	module-alsa-card.c	s16le 2ch 48000Hz	IDLE
+1	alsa_input.pci-0000_00_1f.3.analog-stereo	module-alsa-card.c	s16le 2ch 48000Hz	SUSPENDED
+
+""" You can reference sources either by number: -f pulse -i 5, or by name -f pulse -i alsa_input.pci-0000_00_1b.0.analog-stereo, 
+or just use -f pulse -i default to use the source currently set as default in pulseaudio. """
+
+> Xephyr :1 -ac -listen tcp -screen 1280x720
+> ffmpeg -framerate 25 -f x11grab -i :1 -f pulse -ac 2 -i alsa_output.pci-0000_00_1f.3.analog-stereo.monitor colts_vs_bills_11_2021-11-21.mp4
+
