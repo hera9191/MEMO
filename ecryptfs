@@ -1,0 +1,4 @@
+balik: ecryptfs-utils
+
+mount kryptovaneho adresare:
+$ ecryptfs-mount-private
