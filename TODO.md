@@ -3,12 +3,13 @@
 ## Os
 
 - [ ] Install [NixOS](https://nixos.org/)
-- Alpine / debootstrap / go
+- [ ] Alpine / debootstrap / go
 
 ## Docker
 
 - [ ] [Docker](https://www.docker.com/) decomposition
-- image scannin
+- [ ] image scanning
+
 ## MyEnv
 
 - monitor management 4k vs notebook
