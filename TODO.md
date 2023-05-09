@@ -23,8 +23,7 @@
 - [Hashicorp Vault](https://www.vaultproject.io/) - secrets management, in production
 - [Falco](https://falco.org/about/faq/)
 - image scanning
-- [](
-https://bishopfox.com/blog/kubernetes-pod-privilege-escalation)
+- https://bishopfox.com/blog/kubernetes-pod-privilege-escalation
 - 
 https://github.com/BishopFox/badPods
 
