@@ -2,13 +2,13 @@
 
 ## Os
 
-- [ ] Install [NixOS](https://nixos.org/)
-- [ ] Alpine / debootstrap / go
+- Install [NixOS](https://nixos.org/)
+- Alpine / debootstrap / go
 
 ## Docker
 
-- [ ] [Docker](https://www.docker.com/) decomposition
-- [ ] image scanning
+- [Docker](https://www.docker.com/) decomposition
+- image scanning
 
 ## MyEnv
 
