@@ -18,6 +18,7 @@
 ## Kubernetes
 
 - [Hashicorp Vault](https://www.vaultproject.io/) - secrets management, in production
+- [Falco](https://falco.org/about/faq/)
 
 ## VpsFree
 
