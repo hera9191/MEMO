@@ -24,8 +24,7 @@
 - [Falco](https://falco.org/about/faq/)
 - image scanning
 - https://bishopfox.com/blog/kubernetes-pod-privilege-escalation
-- 
-https://github.com/BishopFox/badPods
+- https://github.com/BishopFox/badPods
 
 ## VpsFree
 
