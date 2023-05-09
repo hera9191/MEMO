@@ -1,24 +1,27 @@
 # Future
 
-## NixOS
+## Os
 
 - [ ] Install [NixOS](https://nixos.org/)
+- Alpine / debootstrap / go
 
 ## Docker
 
 - [ ] [Docker](https://www.docker.com/) decomposition
-
+- image scannin
 ## MyEnv
 
 - monitor management 4k vs notebook
 - arange my binaries and configuration (fvwm, bash, i3, ssh, git, ...)
 - disc encryption
 - disc sync
+- disc encrypting
 
 ## Kubernetes
 
 - [Hashicorp Vault](https://www.vaultproject.io/) - secrets management, in production
 - [Falco](https://falco.org/about/faq/)
+- image scanning
 
 ## VpsFree
 
